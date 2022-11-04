@@ -25,11 +25,18 @@ I implemented a bunch of machine learning projects and uploaded them in this rep
    - output: 1 `fake news` or 0 `real news`
    
    
-### 4. 
-> Supervised Learning ()
-   - Data: 
+### 4. Loan Prediction
+> Supervised Learning (Classification)
+   - Data: https://www.kaggle.com/datasets/ninzaami/loan-predication
    - Classifier:
    - output: 
+   
+   
+### 5. Credit Card Fraud
+> Supervised Learning (Classification)
+   - Data: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+   - Classifier: Logistic Regression
+   - output: 1 `Fraud` or 0 `Legit`
    
    
 ### 5. 
@@ -37,11 +44,4 @@ I implemented a bunch of machine learning projects and uploaded them in this rep
    - Data: 
    - Classifier:
    - output: 
-   
-   
-### 5. 
-> Supervised Learning ()
-   - Data: 
-   - Classifier:
    - output: 
-   - output: 1 `fake news` or 0 `real news`
