@@ -28,8 +28,8 @@ I implemented a bunch of machine learning projects and uploaded them in this rep
 ### 4. Loan Prediction
 > Supervised Learning (Classification)
    - Data: https://www.kaggle.com/datasets/ninzaami/loan-predication
-   - Classifier:
-   - output: 
+   - Classifier: SVM
+   - output: 1 `Yes` or 0 `No`
    
    
 ### 5. Credit Card Fraud
