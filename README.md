@@ -41,7 +41,7 @@ I implemented a bunch of machine learning projects and uploaded them in this rep
    
 ### 6. 
 > Supervised Learning (Classification)
-   - Data: Breast_Cancer.csv
+   - Data: Sklearn's Breast Cancer Dataset
    - Classifier: Logistic Regression
    - output: 1 `Malignant` or 0 `Benign`
    
