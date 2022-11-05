@@ -39,9 +39,14 @@ I implemented a bunch of machine learning projects and uploaded them in this rep
    - output: 1 `Fraud` or 0 `Legit`
    
    
-### 5. 
+### 6. 
+> Supervised Learning (Classification)
+   - Data: Breast_Cancer.csv
+   - Classifier: Logistic Regression
+   - output: 1 `Malignant` or 0 `Benign`
+   
+### 7. 
 > Supervised Learning ()
    - Data: 
    - Classifier:
-   - output: 
-   - output: 
+   - output:  
