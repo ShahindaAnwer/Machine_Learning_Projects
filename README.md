@@ -46,8 +46,38 @@ I implemented a bunch of machine learning projects and uploaded them in this rep
    - Classifier:
    - output:  
    
-### 8. 
+### 8. Calories Burnt Prediction
+> Supervised Learning (Regression)
+   - Data: calories.csv and exercise.csv
+   - Classifier: XGBRegressor
+   - output: Calories a person has
+      
+### 9. 
 > Supervised Learning ()
    - Data: 
    - Classifier:
-   - output:  
+   - output:   
+   
+### 10. 
+> Supervised Learning ()
+   - Data: 
+   - Classifier:
+   - output:   
+   
+### 11. 
+> Supervised Learning ()
+   - Data: 
+   - Classifier:
+   - output:   
+   
+### 12. 
+> Supervised Learning ()
+   - Data: 
+   - Classifier:
+   - output:   
+   
+### 13. 
+> Supervised Learning ()
+   - Data: 
+   - Classifier:
+   - output: 
