@@ -38,20 +38,20 @@ I implemented a bunch of machine learning projects and uploaded them in this rep
 > Supervised Learning (Classification)
    - Data: Sklearn's Breast Cancer Dataset
    - Classifier: Logistic Regression
-   - output: 1 `Malignant` or 0 `Benign`
+   - output: 1 `Malignant` or 0 `Benign`  
    
 ### 7. Calories Burnt Prediction
-> Supervised Learning (Classification)
-   - Data: 
-   - Classifier:
-   - output:  
-   
-### 8. Calories Burnt Prediction
 > Supervised Learning (Regression)
    - Data: calories.csv and exercise.csv
    - Classifier: XGBRegressor
    - output: Calories a person has
       
+### 8. Titanice Survival Prediction
+> Supervised Learning (Classification)
+   - Data: Titanic.csv
+   - Classifier: Logistic Regression
+   - output: 0 `Survived` 1 `not Survived`
+   
 ### 9. 
 > Supervised Learning ()
    - Data: 
@@ -74,10 +74,10 @@ I implemented a bunch of machine learning projects and uploaded them in this rep
 > Supervised Learning ()
    - Data: 
    - Classifier:
-   - output:   
+   - output: 
    
 ### 13. 
-> Supervised Learning ()
+> UnSupervised Learning ()
    - Data: 
    - Classifier:
    - output: 
