@@ -34,11 +34,11 @@ I implemented a bunch of  supervised learning machine learning projects and uplo
    - Classifier: Logistic Regression
    - output: 1 `Fraud` or 0 `Legit`
    
-### 6. Breast Cancer
-> Classification
-   - Data: Skearn's Breast Cancer Dataset
-   - Classifier: Logistic Regression
-   - output: 1 `Malignant` or 0 `Benign`  
+### 6. Gold Price Prediction
+> Regression
+   - Data: GoldPrice.csv
+   - Classifier: RandomForestRegressor
+   - output: Price of Gold 
    
 ### 7. Calories Burnt Prediction
 > Regression
@@ -57,9 +57,3 @@ I implemented a bunch of  supervised learning machine learning projects and uplo
    - Data: sales.csv
    - Classifier: XGBRegressor
    - output: Item Outlet Sales
-   
-### 10. Gold Price Prediction
-> Regression
-   - Data: GoldPrice.csv
-   - Classifier: RandomForestRegressor
-   - output: Price of Gold
