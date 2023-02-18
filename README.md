@@ -3,6 +3,16 @@
 
 I implemented a bunch of  supervised learning machine learning projects and uploaded them in this repository.
 
+## *Project Steps:*
+1. Import ibraries and upload data
+2. Data Exploring ( Features and Target Variables)
+3. Handle missing values, duplicates, invalid data and noise(outliers)
+4. Data Preprocessing (Encoding, Feature Scaling)
+5. Handle imbalances
+6. Split Data
+7. Train and test model
+8. Analysis and Evaluation
+
 ## *Projects:*
 ### 1. Diabetes prediction
 > Classification
