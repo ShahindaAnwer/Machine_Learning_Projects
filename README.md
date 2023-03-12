@@ -56,11 +56,11 @@ Machine learning is a branch of artificial intelligence, which focuses on the us
    - Classifier: SVM
    - output: 1 `Yes` or 0 `No`  
       
-### 9. Titanice Survival Prediction
+### 9. Stars Classification
 > Classification
-   - Data: Titanic.csv
-   - Classifier: Logistic Regression
-   - output: 0 `Survived` 1 `not Survived`
+   - Data: Stars.csv
+   - Classifier: Dicision Tree
+   - output: type of start 0-5
    
 ### 10. Titanice Survival Prediction
 > Classification
@@ -68,11 +68,11 @@ Machine learning is a branch of artificial intelligence, which focuses on the us
    - Classifier: Logistic Regression
    - output: 0 `Survived` 1 `not Survived
    
-### 11. Big Mart Sales Prediction
-   > Regression
-      - Data: sales.csv
-      - Classifier: XGBRegressor
-      - output: Item Outlet Sales
+### 10. Wine Quality Classification
+> Classification
+   - Data: WineQT.csv
+   - Classifier: Gradient boosting
+   - output: 0 `Bad Quality Wine` 1 `Good Quality Wine`
 
 ## *Project Steps*
 1. Import ibraries and upload data
